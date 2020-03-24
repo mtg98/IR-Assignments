@@ -18,7 +18,7 @@ Dependencies
 Files
 -------------
 Following files have been built in the project-
-* collaborative.py, collaborative_baseline.py,  read_file.py, svd_decompose.py, svd.py, svd_energy_retained.py , cur.py , cur_energy_retained.py
+ collaborative.py, collaborative_baseline.py,  read_file.py, svd_decompose.py, svd.py, svd_energy_retained.py , cur.py , cur_energy_retained.py
 
 
 Dataset
@@ -38,7 +38,7 @@ Following recommnender system approaches have been employed -
 5. CUR 
 6. CUR with 90% retained energy
 
-Error calculations have been don using-
+Error calculations have been done using-
 1. RMSE (Root Mean Squeare Error)
 2. Precision on top K
 3. Spearman's index 
