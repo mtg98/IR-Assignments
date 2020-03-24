@@ -16,9 +16,9 @@ This Domain specific retrieval system is employed to search for certain fundamen
 Installation
 ---------------
 
-*nltk can be installed by using the command "pip install nltk". Visit: https://www.nltk.org/install.html
-*pyPDF can be installed by using the command "pip install pyPDF". Visit: https://pypi.org/project/pyPdf/
-*Flask environment was also created to develop this web application.
+1. nltk can be installed by using the command "pip install nltk". Visit: https://www.nltk.org/install.html
+2. pyPDF can be installed by using the command "pip install pyPDF". Visit: https://pypi.org/project/pyPdf/
+3. *Flask environment was also created to develop this web application.
 
 
 
