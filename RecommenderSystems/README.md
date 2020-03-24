@@ -31,15 +31,15 @@ Procedure
 
 The program will read the data from an input file in the form of a matrix.
 Following recommnender system approaches have been employed -
-* Collaborative without baseline approach
-* Collaborative baseline approach
-* SVD
-* SVD with 90% retained energy
-* CUR 
-* CUR with 90% retained energy
+1. Collaborative without baseline approach
+2. Collaborative baseline approach
+3. SVD
+4. SVD with 90% retained energy
+5. CUR 
+6. CUR with 90% retained energy
 
 Error calculations have been don using-
-* RMSE (Root Mean Squeare Error)
-* Precision on top K
-* Spearman's index 
+1. RMSE (Root Mean Squeare Error)
+2. Precision on top K
+3. Spearman's index 
 
